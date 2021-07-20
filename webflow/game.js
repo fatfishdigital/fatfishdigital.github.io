@@ -171,16 +171,16 @@ You win the game, show sweet alert box and go to next page or restart the game
     },
     {
       name:  "Gaslamp Quarter",
-      img:   "/images/Card-Gaslamp-Quarter-Front.jpg",
-      icon:  "/images/Card-Gaslamp-Quarter-Icon.jpg",
+      img:   "https://uploads-ssl.webflow.com/5e2a4c410962397d0c3cc7d9/60f61bba4028b863b59fb99f_Card-Gaslamp-Quarter-Front.jpg",
+      icon:  "https://uploads-ssl.webflow.com/5e2a4c410962397d0c3cc7d9/60f61bbacecceb2b29b576e6_Card-Gaslamp-Quarter-Icon.jpg",
       id:    2,
       text:  "<h2>Gaslamp Quarter<br>San Diego</h2>Food, craft beer, boutique shopping and live music are all part of the historic Gaslamp Quarter in San Diego, the part of town that tends to keep things hopping ‘til the small hours.",
       color: "#000000"
     },
     {
       name:  "Gaslamp Quarter",
-      img:   "/images/Card-Gaslamp-Quarter-Meaning.jpg",
-      icon:  "/images/Card-Gaslamp-Quarter-Icon.jpg",
+      img:   "https://uploads-ssl.webflow.com/5e2a4c410962397d0c3cc7d9/60f61bba3b780948c6d25c8a_Card-Gaslamp-Quarter-Meaning.jpg",
+      icon:  "https://uploads-ssl.webflow.com/5e2a4c410962397d0c3cc7d9/60f61bbacecceb2b29b576e6_Card-Gaslamp-Quarter-Icon.jpg",
       id:    2,
       text:  "<h2>Gaslamp Quarter<br>San Diego</h2>Food, craft beer, boutique shopping and live music are all part of the historic Gaslamp Quarter in San Diego, the part of town that tends to keep things hopping ‘til the small hours.",
       color: "#000000"
